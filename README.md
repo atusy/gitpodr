@@ -2,7 +2,6 @@
 
 Gitpod with rocker/r-ver
 
-# Trial with minimal steps
+# Try
 
-1. Log in to https://gitpod.io
-2. Open https://gitpod.io/#https://github.com/atusy/gitpodr/
+Go https://gitpod.io/#https://github.com/atusy/gitpodr/ and login with your GitHub account
