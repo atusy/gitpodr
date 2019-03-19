@@ -1,2 +1,1 @@
-image:
-  image: "rocker/r-ver:latest"
+image: rocker/r-ver:latest
